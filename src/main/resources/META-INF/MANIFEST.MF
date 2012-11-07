@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: Nuxeo Empty project
+Bundle-SymbolicName: org.nuxeo.empty.project;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Vendor: Nuxeo
+Provide-Package: org.nuxeo.empty.project
